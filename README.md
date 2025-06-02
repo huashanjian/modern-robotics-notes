@@ -88,7 +88,7 @@ For additional learning resources, the official course website is highly recomme
 
 ## How to Use
 
-*   It is recommended to use the **`现代机器人学笔记.pdf` (Modern Robotics Study Notes)** as supplementary material during your study to review and deepen your understanding of the course content.
+*   It is recommended to use the **`mr-note-cn.pdf` (Modern Robotics Study Notes)** as supplementary material during your study to review and deepen your understanding of the course content.
 *   After completing each chapter of the textbook, you can use the corresponding chapter exercises in the **`Modern Robotics Self-Assessment Collection.pdf`** for self-testing and to evaluate your learning progress.
 
 ## Organization
